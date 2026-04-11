@@ -259,21 +259,23 @@ export default function Hero() {
           {/* Left Side: Intro and Title */}
           <div className="flex-1 max-w-lg lg:max-w-xl text-left">
             <p className="text-sm md:text-base text-gray-300 font-medium tracking-widest uppercase mb-6 opacity-90 drop-shadow-md">
-              Hey, I’m Leeshark
+              Hey, I’m Tufail
             </p>
             
             <h1 className="text-2xl md:text-3xl lg:text-[1rem] xl:text-[3.5rem] font-bold tracking-tighter drop-shadow-2xl leading-[1.05] font-sans">
-              Crafting Digital<br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-500 font-serif italic font-light pr-2">Excellence</span> from<br />
-              End to End
+             Learning Full Stack<br />
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-500 font-serif italic font-light pr-2">Development</span> with<br />
+              Ruby on Rails
             </h1>
           </div>
           
           {/* Right Side: Description and CTA */}
           <div className=" flex-1 max-w-md text-left md:text-right flex flex-col md:items-end">
             <p className="w-110 text-lg md:text-xl text-gray-300 drop-shadow-xl font-light tracking-wide leading-relaxed mb-8">
-              I build scalable web applications that merge striking design with robust, high-performance functionality. Seamless interactions, engineered for the future.
-            </p>
+              I’m currently learning Ruby on Rails and building my journey towards becoming a full stack web developer. 
+    I enjoy creating modern, scalable applications and continuously improving my skills through real-world projects.
+  </p>
+         
             
             <button className="pointer-events-auto px-8 py-4 rounded-full border border-white/30 text-white text-sm tracking-[0.2em] uppercase font-medium hover:bg-white hover:text-black hover:border-white transition-all duration-500 backdrop-blur-sm shadow-xl inline-block">
               Start a Project
